@@ -144,7 +144,7 @@ npm run dev
 ## 👤 Author
 
 **Kumar Anshuman**  
-GitHub: https://github.com/ansh-0069
+GitHub: https://github.com/anxhumandev
 
 ---
 
